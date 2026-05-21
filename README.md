@@ -1,5 +1,7 @@
 # DSA Pattern-wise Questions
 
+We have created a pattern wise DSA repo for students to practise 28 patterns in both JAVA and Python.
+
 This repository contains solutions to Data Structures and Algorithms (DSA) questions, organized by patterns.
 
 ## Patterns Included:
