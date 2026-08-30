@@ -35,3 +35,15 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 ## Language Support:
 - Java
 - Python
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
