@@ -46,8 +46,14 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
