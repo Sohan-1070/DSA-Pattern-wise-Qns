@@ -46,4 +46,8 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
