@@ -42,6 +42,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,12 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
