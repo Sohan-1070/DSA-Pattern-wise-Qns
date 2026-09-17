@@ -16,6 +16,6 @@ class Solution {
             charMap.put(c,right);
             maxLen=Math.max(maxLen,right-left+1);
         }
-        return maxLen;    
+        return maxLen; 
     }
 }
