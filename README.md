@@ -47,6 +47,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
@@ -65,4 +67,8 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
