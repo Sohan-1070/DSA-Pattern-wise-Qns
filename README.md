@@ -58,6 +58,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) quest
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sohan-1070/DSA-Pattern-wise-Qns/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
